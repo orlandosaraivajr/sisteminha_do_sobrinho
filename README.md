@@ -51,4 +51,4 @@ Este é um sistema de gerenciamento de biblioteca desenvolvido em PHP puro com M
 
 ### Servidor
 
-O servidor temporário encontra-se em: <<inserir_URL>>
+O servidor temporário encontra-se em: [Sisteminha do Sobrinho](http://137.184.56.192/)
